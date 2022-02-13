@@ -28,8 +28,3 @@ This should generate a ```requirements.txt``` file
 Running ```pip install -r requirements.txt``` should install everything. Hopefully...
 
 Sources: [Install pip fast lol](https://stackoverflow.com/questions/46419607/how-to-automatically-install-required-packages-from-a-python-script-as-necessary)
-
-
-
-
-
